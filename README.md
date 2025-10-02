@@ -1,0 +1,2 @@
+# linkding-api
+Linkding API
